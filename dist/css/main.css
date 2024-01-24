@@ -1,0 +1,5 @@
+.data-title {
+    background: linear-gradient(to right, #00A9FF, #89CFF3, #A0E9FF, #CDF5FD); 
+    background-clip: text; 
+    color: transparent;
+}
